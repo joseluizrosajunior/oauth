@@ -1,0 +1,1 @@
+server:  port: 8089#spring:#  datasource:#    password: postgres#    username: postgres#    url: 'jdbc:postgresql://localhost:5432/oauth'#  jpa:#    hibernate:#      ddl-auto: update
